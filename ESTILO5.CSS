@@ -1,0 +1,137 @@
+#general{
+    margin:auto;
+	margin-top:4px;
+	margin-left:210px;
+	margin-right:210px;
+	margin-bottom:100px;
+	width:1025px;
+	height:1610x;
+	background-color:#F2817A;
+
+}
+#primero{
+	margin:0px;
+	padding:10px;
+	float:center;
+	width:900x;
+	height:50px;
+	background-color:#000706;
+}
+#segundo{
+	
+	margin:0px;
+	padding:0px;
+	width:1030px;
+	height:380px;
+	background-color:#ffffff;
+}
+h1{
+	font-size:20px;
+	font-family:Algerian;
+	font-style:italic;
+	color:#FFDD97;
+	text-shadow:7px 7px 7px #FFDD97;
+
+}
+
+.navegacion{
+	margin:20px auto;
+	width:900Px;
+	height:50;
+	background:#d5b6b5;
+}
+.navegacion ul{
+list-style:none;
+}
+.menu >li{
+	position:relative;
+	display:inline-block;
+}
+.menu > li > a {
+	display:block;
+	padding:15px 10px;
+	color:black;
+	font-family:Bahnschrift;
+	text-decoration:none;
+	text-shadow:9px 8px 7px #FFDD97;
+}
+.menu li a :hover{
+     color:#2AE9F7;
+     background:#7232F9;
+	 transition:all .3s;
+}
+b{
+	color:red;
+}
+
+iframe{
+	width:560px;
+	height:315px;
+	padding-left:120px;
+border-bottom:10px;
+}
+.linea{
+	background:blue;
+	heigth:5px;
+	width:780:
+	display:block;
+}
+
+img{
+	padding center.0px;
+	width:770px;
+	height:130px;
+    float:center;
+}
+.foto3 {
+	padding.0px;
+	margin:10px;
+	margin-top:300px;
+	margin-left:226px;
+	margin-right:0px;
+	margin-bottom:0px;
+	width:200px;
+	height:200px;
+	float:right;
+}
+
+.foto4 {
+	padding.0px;
+	margin:10px;
+	margin-top:300px;
+	margin-left:0px;
+	margin-right:210px;
+	margin-bottom:0px;
+	width:240px;
+	height:200px;
+	float:left;
+}
+.foto5 {
+	padding.0px;
+	margin:10px;
+	margin-top:700px;
+	margin-left:100px;
+	margin-right:100px;
+	margin-bottom:0px;
+	width:770px;
+	height:130px;
+	float:center;
+}
+
+p{
+	font-family:Comic Sans MS;
+	font-size:20px;
+    color:black;
+	text-shadow:2px 2px 1px #F3D4CB;
+}
+.foto6{
+	padding:2PX;
+	width:300;
+	height:250;
+}
+.foto7{
+	padding:2PX;
+	width:500;
+	height:500;
+}
+
